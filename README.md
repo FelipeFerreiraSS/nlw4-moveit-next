@@ -17,7 +17,7 @@
 Clone o projeto e acesse a pasta
 
 ```bash
-$ git clone https://github.com/danicunhac/moveit.git && cd moveit
+$ git clone https://github.com/FelipeFerreiraSS/nlw4-moveit-next.git && cd nlw4-moveit-next
 ```
 
 Siga os passos abaixo
