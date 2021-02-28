@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://i.imgur.com/4sK58aC.png" />
+</p>
 
-## Getting Started
+<h3 align="center"> Aplicação desenvolvida durante a Next Level Week #4 da Rocketseat 🚀 </h3>
 
-First, run the development server:
+## 🧪 Tecnologias 
+
+- React 💜
+- NextJS 🔥
+- Styled-Components 💅
+- Context API ⚙
+- Typescript 💙
+
+## 🚀 Iniciando o projeto
+
+Clone o projeto e acesse a pasta
 
 ```bash
-npm run dev
-# or
-yarn dev
+$ git clone https://github.com/danicunhac/moveit.git && cd moveit
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Siga os passos abaixo
+```bash
+# Install the dependencies
+$ yarn
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Start the project
+$ yarn dev
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🔥 Preview
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Clique [aqui](https://nlw4-moveit-next-ebon.vercel.app/) para acessar.
 
-## Learn More
+Hospedado na [Vercel](https://vercel.com).
 
-To learn more about Next.js, take a look at the following resources:
+## 🔖 Layout
+Você pode ver o layout da aplicação no link abaixo:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Clique <a href="https://media-exp1.licdn.com/dms/image/C4E22AQEOCpsLIiS7tA/feedshare-shrink_800/0/1614552610670?e=1617235200&v=beta&t=m5En3rfz_17-HOId5kipwvN68EZI0i73twT7S4dn_Iw">aqui</a> para acessar.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 💻 Tela
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQEOCpsLIiS7tA/feedshare-shrink_800/0/1614552610670?e=1617235200&v=beta&t=m5En3rfz_17-HOId5kipwvN68EZI0i73twT7S4dn_Iw" />
