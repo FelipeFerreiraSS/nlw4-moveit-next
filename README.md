@@ -31,7 +31,7 @@ $ yarn dev
 
 ## 🔥 Preview
 
-Clique [aqui](https://nlw4-moveit-next-ebon.vercel.app/) para acessar.
+Clique [aqui](https://nlw4-moveit-next-ebon.vercel.app/) para acessar o projeto.
 
 Hospedado na [Vercel](https://vercel.com).
 
